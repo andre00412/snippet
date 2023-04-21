@@ -1,4 +1,4 @@
-window.mySnippet = function () {
+
   
 var table = document.getElementsByClassName("centerTable")[4]; 
 const colIndex1 = 2;
@@ -24,4 +24,3 @@ for (let i = 1; i < table.rows.length -3; i++) {
 
   }
 
-};
